@@ -1,0 +1,6 @@
+qiskit
+matplotlib
+networkx
+numpy
+qdk[jupyter]
+pytest
