@@ -19,6 +19,5 @@ This folder contains a notebook-first submission scaffold for PHY5003 Assessment
 
 ## How to run
 - If you have the mqit-quantum-sw environment installed, you already have all the dependencies available. Please run that environment after the repo is cloned.
-- If you want to run the test files, please run the test files using pytest. If that is not installed in your environment, activate the mqit-quantum-sw virtual environment in PowerShell, make sure you are in the root directory of the qaoa_maxcut and use pip to install pytest. Then, run in the same root directory, it will find the test automatically and run the test files:
-- `pytest`
+- If you want to run the test files, please run the test files using pytest. If that is not installed in your environment, activate the mqit-quantum-sw virtual environment in PowerShell, make sure you are in the root directory of the qaoa_maxcut and use pip to install pytest. Then, run in the same root directory, it will find the test automatically and run the test files: pytest.
 
